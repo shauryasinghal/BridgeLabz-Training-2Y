@@ -1,1 +1,4 @@
-# BridgeLabz-Training-2Y
+# BridgeLabz Training 2Y
+
+DSA programs and practice solutions.
+
